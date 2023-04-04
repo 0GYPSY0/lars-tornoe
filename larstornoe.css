@@ -1,0 +1,63 @@
+.larslogo{
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.top{
+    display: flex;
+}
+.button{
+    display: flex;
+    padding-top: 30px;
+}
+.WORK{
+    padding-right: 50px;
+    padding-left: 800px;
+}
+.img1{
+    width: 600px;
+    padding-left: 30px;
+    padding-top: 30px;
+    height: 400px;
+}
+.img2{
+    padding-left: 50px;
+    width: 600px;
+    height: 400px;
+}
+.img3{
+    padding-top: 30px;
+    padding-left: 30px;
+    width: 600px;
+    height: 400px;
+}
+.img4{
+    padding-top: 30px;
+    padding-left: 50px;
+    width: 600px;
+    height: 400px;
+}
+.img5{
+    padding-top: 30px;
+    padding-left: 30px;
+    width: 600px;
+    height: 400px;
+}
+.img6{
+    padding-top: 30px;
+    padding-left: 50px;
+    width: 600px;
+    height: 400px;
+}
+.img7{
+    padding-top: 30px;
+    padding-left: 30px;
+    width: 600px;
+    height: 400px;
+}
+.img8{
+    padding-top: 30px;
+    padding-left: 50px;
+    width: 600px;
+    height: 400px;
+}
